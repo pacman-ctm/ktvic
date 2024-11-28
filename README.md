@@ -10,3 +10,15 @@
 
 **Notes:** The original link of the EVJVQA dataset was deleted by the owners. So you can download the images for doing Image Captioning tasks with **KTVIC dataset** via [this folder](https://drive.google.com/drive/folders/16e8cd3AKusPS1H-h55JModiINM0og-ke?usp=sharing).
 
+## Citation
+The information of the KTVIC dataset was described in this report:
+
+```bibtex
+@article{pham2024ktvic,
+    title={KTVIC: A Vietnamese Image Captioning Dataset on the Life Domain},
+    author={Pham, Anh-Cuong and Nguyen, Van-Quang and Vuong, Thi-Hong and Ha, Quang-Thuy},
+    journal={arXiv preprint arXiv:2401.08100},
+    year={2024}
+}
+
+
